@@ -2,7 +2,7 @@
 <pre>
 I'm currently learning React and Java :)
 Road to Frontend Developer 🔥
-I love help people and learn new things every day❤
+I love help people and learn new things every day ❤
 </pre>
 
 
