@@ -6,7 +6,7 @@
 
 ## Some information about me
 
-- 📚 I’m currently learning React and Java**.
+- 📚 I’m currently learning React and Java.
 
 - 🔥 Road to Frontend Developer!.
 
