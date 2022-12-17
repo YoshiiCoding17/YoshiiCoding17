@@ -1,10 +1,11 @@
 <h1>Hello World! My name is Jeff(Yoshii)👋</h1>
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 <pre>
 I'm currently learning React and Java :)
 Road to Frontend Developer 🔥
 I love help people and learn new things every day ❤
 </pre>
-![Alt Text](https://tenor.com/5JJm.gif)
+
 
 <!--
 **YoshiiCoding17/YoshiiCoding17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
