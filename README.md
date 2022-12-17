@@ -1,10 +1,11 @@
+![Kazuma](https://tenor.com/es-US/view/nice-bakuretsu-thumbs-thumbs-up-nice-bakuretsu-gif-13721418)
 <h1>Hello World! My name is Jeff(Yoshii)👋</h1>
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 <pre>
 I'm currently learning React and Java :)
 Road to Frontend Developer 🔥
 I love help people and learn new things every day ❤
 </pre>
+
 
 
 <!--
