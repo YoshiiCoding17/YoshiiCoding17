@@ -4,7 +4,7 @@ I'm currently learning React and Java :)
 Road to Frontend Developer 🔥
 I love help people and learn new things every day ❤
 </pre>
- <img src="https://tenor.com/5JJm.gif">
+![Alt Text](https://tenor.com/5JJm.gif)
 
 <!--
 **YoshiiCoding17/YoshiiCoding17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
