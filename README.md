@@ -1,6 +1,6 @@
 
 <h1>Hello World! My name is Jeff(Yoshii)👋</h1> 
-<img src="https://tenor.com/es-US/view/nice-bakuretsu-thumbs-thumbs-up-nice-bakuretsu-gif-13721418.gif">
+<img align="center" src="https://tenor.com/es-US/view/nice-bakuretsu-thumbs-thumbs-up-nice-bakuretsu-gif-13721418.gif">
 <p align="center">Hallo everyone, as you saw in the header, my name is Yoshii and i'm studying to be a frontend dev :3. I love learn new things every day and participate in projects , so if you have an idea in mind, contact me :D</p>
 <br>
 
