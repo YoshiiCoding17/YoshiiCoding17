@@ -2,9 +2,7 @@
 
 <img align="right" src="https://tenor.com/es-US/view/nice-bakuretsu-thumbs-thumbs-up-nice-bakuretsu-gif-13721418.gif" width="500px">
 
-<div align="center">
-  <p align="left">Hallo everyone, as you saw in the header, my name is Yoshii and i'm studying to be a frontend dev :3. I love learn new things every       day and participate in projects , so if you have an idea in mind, contact me please :D</p>
-<div>
+<p align="left">Hallo everyone, as you saw in the header, my name is Yoshii and i'm studying to be a frontend dev :3. I love learn new things every       day and participate in projects , so if you have an idea in mind, contact me please :D</p>
 
   ## Some information about me
   - 📚 I’m currently learning React and Java.
