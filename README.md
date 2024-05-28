@@ -1,4 +1,4 @@
-<h1>Hello World! My name is Jeff(Yoshii)👋</h1>
+<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=4EF785&background=4A20FF00&center=true&random=false&width=435&lines=Hello+World!+)](https://git.io/typing-svg)👋</h1>
 <div align="center">
     <img align="center" src="https://tenor.com/es-US/view/nice-bakuretsu-thumbs-thumbs-up-nice-bakuretsu-gif-13721418.gif" width="80%">
 </div>
