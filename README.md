@@ -8,9 +8,9 @@
 <p align="center">Hallo everyone! , as you saw in the header, my name is Yoshii and i'm studying to be a frontend dev :3. I love learn new things every       day and participate in projects , so if you have an idea in mind, contact me please :D</p>
 
   ## Some information about me
-  - 📚 I’m currently learning React and Java.
+  - 📚 I’m currently learning Spring boot and Angular.
   - 🔥 Road to Frontend Developer!.
-  - ❤  I love help people and learn new things every day.
+  - ❤  I love to help people and learn new things every day.
   - 💬 Ask me about JavaScript and Web Development
   
 
