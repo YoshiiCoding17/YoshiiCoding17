@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=4EF785&background=4A20FF00&center=true&random=false&width=435&lines=Hello+World!+)](https://git.io/typing-svg)
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=A78008&background=4A20FF00&center=true&random=false&width=435&lines=My+name+is+Jeff(Yoshii)%F0%9F%91%8B)](https://git.io/typing-svg)
 <div align="center">
     <img align="center" src="https://tenor.com/es-US/view/nice-bakuretsu-thumbs-thumbs-up-nice-bakuretsu-gif-13721418.gif" width="80%">
