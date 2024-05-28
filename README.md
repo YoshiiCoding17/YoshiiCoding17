@@ -14,7 +14,7 @@
   - ❤  I love to help people and learn new things every day.
   - 💬 Ask me about JavaScript and Web Development
 
-<picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazludmw3am9rbGZ1dmtqaXZrM2tzNDMxa2M1cGk1dGxhbnowMmh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjxvhhQfl5y9DhuJam/giphy.gif"></picture>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazludmw3am9rbGZ1dmtqaXZrM2tzNDMxa2M1cGk1dGxhbnowMmh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjxvhhQfl5y9DhuJam/giphy.gif">
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
