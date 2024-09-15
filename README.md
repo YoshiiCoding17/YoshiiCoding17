@@ -5,7 +5,7 @@
     <img align="center" src="https://tenor.com/es-US/view/nice-bakuretsu-thumbs-thumbs-up-nice-bakuretsu-gif-13721418.gif" width="80%">
 </div>
 <br>
-<p align="center">Hallo everyone! , as you saw in the header, my name is Yoshii and i'm studying to be a frontend dev :3. I love learn new things every    day and participate in projects , so if you have an idea in mind, contact me please :D</p>
+<p align="center">Hallo everyone! , as you saw in the header, my name is Yoshii and i'm studying to be a frontend dev :3. I love learning new things every    day and participate in projects , so if you have an idea in mind, contact me please :D</p>
 
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc5NzFsOWVrM2ppanJ6cTJneDhuM21pNzU4bXNnZ2N4M3NmcjJvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZtJUz2AomrhiOyWhMO/giphy.gif" width="30" margin="0" />Some Information about me</h2> 
 
